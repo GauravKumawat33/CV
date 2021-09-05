@@ -1,0 +1,19 @@
+ h3{
+      color:  #1bb2b8;
+}
+body{
+      font-size: 20px;
+      font-family: "Futura";
+      background-color: #f3efd5;
+    }
+h1{
+      color: #1bb2b8;
+}
+hr{
+      border-style: none;
+      border-top-style: dotted;
+      color: grey;
+      width: 10%;
+      border-width: 7px;
+
+}
