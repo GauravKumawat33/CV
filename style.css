@@ -1,5 +1,5 @@
  h3{
-      color:  #1bb2b8;
+      color:  #037377;
 }
 body{
       font-size: 20px;
@@ -7,7 +7,7 @@ body{
       background-color: #f3efd5;
     }
 h1{
-      color: #1bb2b8;
+      color: #0c9397;
 }
 hr{
       border-style: none;
@@ -17,3 +17,13 @@ hr{
       border-width: 7px;
 
 }
+body{
+      text-align: center;
+}
+table{
+            margin-left: auto;
+            margin-right: auto;
+}
+td {
+      text-align: left;
+    }
